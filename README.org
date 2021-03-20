@@ -1,0 +1,7 @@
+#+TITLE: Tezos and ~opam monorepo~
+
+This repository provides a workflow for using an [[https://github.com/ocamllabs/opam-monorepo][~opam monorepo~]] workflow with
+Tezos. In particular, this repository contains the overlays necessary to build
+the Tezos dependency tree with a pure vendoring workflow.
+
+See the [[file:Dockerfile][Dockerfile]] for a set-up process.

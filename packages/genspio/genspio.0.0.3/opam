@@ -28,5 +28,5 @@ shell scripts (or one-liners) with functions from `Genspio.Compile`.
 Genspio's documentation root is at <https://smondet.gitlab.io/genspio-doc/>.
 """
 url {
-  src: "git://github.com/hammerlab/genspio.git"
+  src: "git+https://github.com/hammerlab/genspio.git"
 }

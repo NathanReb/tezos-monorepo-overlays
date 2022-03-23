@@ -25,5 +25,5 @@ Uuidm has no dependency and is distributed under the ISC license.
 [rfc4122]: http://tools.ietf.org/html/rfc4122"""
 build: [[ "dune" "build" "-p" name ]]
 url {
-  src: "git://github.com/dune-universe/uuidm.git#duniverse-v0.9.7"
+  src: "git+https://github.com/dune-universe/uuidm.git#duniverse-v0.9.7"
 }

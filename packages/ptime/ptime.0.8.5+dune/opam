@@ -35,5 +35,5 @@ distributed under the ISC license.
 [jsoo]: http://ocsigen.org/js_of_ocaml/"""
 build: [[ "dune" "build" "-p" name ]]
 url {
-  src: "git://github.com/dune-universe/ptime.git#duniverse-v0.8.5"
+  src: "git+https://github.com/dune-universe/ptime.git#duniverse-v0.8.5"
 }

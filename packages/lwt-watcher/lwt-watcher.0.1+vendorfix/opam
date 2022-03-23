@@ -15,5 +15,5 @@ build: [
 synopsis: "One-to-many broadcast in Lwt"
 dev-repo: "git+https://gitlab.com/CraigFe/lwt-watcher.git"
 url {
-  src: "git://github.com/CraigFe/lwt-watcher.git"
+  src: "git+https://github.com/CraigFe/lwt-watcher.git"
 }

@@ -25,5 +25,5 @@ license.
 [astring]: http://erratique.ch/software/astring"""
 build: [[ "dune" "build" "-p" name ]]
 url {
-  src: "git://github.com/dune-universe/fpath.git#duniverse-v0.7.2"
+  src: "git+https://github.com/dune-universe/fpath.git#duniverse-v0.7.2"
 }

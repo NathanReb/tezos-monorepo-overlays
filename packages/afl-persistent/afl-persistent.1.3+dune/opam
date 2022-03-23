@@ -46,5 +46,5 @@ To globally enable AFL instrumentation, use an OCaml switch such as
 4.07.1+afl." {success & afl-available & !afl-always}
 ]
 url {
-  src: "git://github.com/edwintorok/ocaml-afl-persistent.git#dune"
+  src: "git+https://github.com/edwintorok/ocaml-afl-persistent.git#dune"
 }

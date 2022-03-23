@@ -22,6 +22,6 @@ build: [
 ]
 dev-repo: "git+https://github.com/CraigFe/ocp-ocamlres.git"
 url {
-  src: "git://github.com/CraigFe/ocp-ocamlres#dune"
+  src: "git+https://github.com/CraigFe/ocp-ocamlres#dune"
 }
 

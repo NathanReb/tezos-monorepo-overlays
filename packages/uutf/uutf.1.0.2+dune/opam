@@ -30,5 +30,5 @@ Uutf has no dependency and is distributed under the ISC license.
 """
 build: [[ "dune" "build" "-p" name ]]
 url {
-  src: "git://github.com/dune-universe/uutf.git#duniverse-v1.0.2"
+  src: "git+https://github.com/dune-universe/uutf.git#duniverse-v1.0.2"
 }
